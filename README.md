@@ -17,4 +17,4 @@ Develop a python code to run following command using web API and display on web 
 
 For displaying the results, please create a github repo and share the link.
 
-Please feel free to reply to this email for any concerns or doubts.
+Please feel free to contact email for any concerns or doubts.

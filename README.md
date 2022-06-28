@@ -19,7 +19,5 @@ For displaying the results, please create a github repo and share the link.
 Additional information:
 - All code will be deployed in docker with explanation and clear documentation.
 - Expected time to complete this task is 3-5 days.
-![image](https://user-images.githubusercontent.com/3678822/176158243-81be0613-b5d9-40b9-8496-e89e0c4d2f13.png)
-
 
 Please feel free to contact email for any concerns or doubts.

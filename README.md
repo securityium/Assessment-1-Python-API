@@ -1,4 +1,4 @@
-### Please developed and document the following scenarios and provide us code with explanation.
+### Please develop and document the following scenarios and provide us code with explanation.
 
 ## Scenario #1
 
